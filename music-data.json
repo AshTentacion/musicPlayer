@@ -1,0 +1,44 @@
+{
+  "musicData": [
+    {
+      "name": "7 rings",
+      "musicImgSrc": "http://p4.music.126.net/lDyytkTaPYVTb1Vpide6AA==/18591642115187138.jpg",
+      "src": "/static/7 rings.flac"
+    },
+    {
+      "name": "bad idea",
+      "musicImgSrc": "http://p4.music.126.net/lDyytkTaPYVTb1Vpide6AA==/18591642115187138.jpg",
+      "src": "/static/bad idea.flac"
+    },
+    {
+      "name": "break up with your girlfriend i'm bored",
+      "musicImgSrc": "http://p4.music.126.net/lDyytkTaPYVTb1Vpide6AA==/18591642115187138.jpg",
+      "src": "/static/break up with your girlfriend i'm bored.flac"
+    },
+    {
+      "name": "fake smile",
+      "musicImgSrc": "http://p4.music.126.net/lDyytkTaPYVTb1Vpide6AA==/18591642115187138.jpg",
+      "src": "/static/fake smile.flac"
+    },
+    {
+      "name": "ghostin",
+      "musicImgSrc": "http://p4.music.126.net/lDyytkTaPYVTb1Vpide6AA==/18591642115187138.jpg",
+      "src": "/static/ghostin.flac"
+    },
+    {
+      "name": "imagine",
+      "musicImgSrc": "http://p4.music.126.net/lDyytkTaPYVTb1Vpide6AA==/18591642115187138.jpg",
+      "src": "/static/imagine.flac"
+    },
+    {
+      "name": "in_my_head(explicit)-ariana_grande",
+      "musicImgSrc": "http://p4.music.126.net/lDyytkTaPYVTb1Vpide6AA==/18591642115187138.jpg",
+      "src": "/static/in_my_head(explicit)-ariana_grande.flac"
+    },
+    {
+      "name": "make_up(explicit)-ariana_grande",
+      "musicImgSrc": "http://p4.music.126.net/lDyytkTaPYVTb1Vpide6AA==/18591642115187138.jpg",
+      "src": "/static/make_up(explicit)-ariana_grande.flac"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+1.该项目是express为后端，build/dev-server.js 
+2.原本的vue-cli 使用webpack打包， 这是一个微型的express程序，直接返回静态文件
+3.当cnpm run dev时 调用的package.json里的 dev项目内容
+4.该项目dev里的为 启动express项目 然后该项目手动用webpack打包静态文件 就不像之前的应用
